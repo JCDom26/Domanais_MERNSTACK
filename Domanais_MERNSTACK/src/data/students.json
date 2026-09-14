@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Jesreel Domanais",
+        "course": "BSIT",
+        "studentNumber": "202400437",
+        "yearLevel": "3"
+    },
+    {
+        "id": 2,
+        "name": "Jamal Irving",
+        "course": "BSIT",
+        "studentNumber": "202400438",
+        "yearLevel": "3"
+    },
+    {
+        "id": 3,
+        "name": "Jay Tung",
+        "course": "BSIT",
+        "studentNumber": "202400439",
+        "yearLevel": "3"
+    }
+]
